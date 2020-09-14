@@ -1,0 +1,7 @@
+iridescent:lustrous,flickering/dazzling*gloomy
+serendipity:chance/fortune*misfortune
+epiphany:insight,oracle/bombshell*confusion
+ephemeral:fleeting,episodic/transient*eternal
+aurora:dawn/sunrise*dusk
+nefarious:wicked,despicable/villainous*gentle
+elysian:celestial/ethereal*earthly
